@@ -1,0 +1,5 @@
+print("Adınız nedir?")
+ad = input()
+print("Yaşınız nedir?")
+yas = int(input())
+print(ad*yas)

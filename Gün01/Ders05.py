@@ -1,0 +1,5 @@
+print("Kerim")
+print("Karakan")
+print(20)
+print(1.83)
+print(True)
